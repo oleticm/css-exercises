@@ -3,6 +3,5 @@ div{
     color: white;
     font-size: 32px;
     font-weight: bold;
-    display: flex;
-    align-items: center;
+    text-align: center;
 }
